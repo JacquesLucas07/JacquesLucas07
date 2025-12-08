@@ -1,16 +1,19 @@
-## Hi there 👋
+Je penses que ma présence vous est vivement requise..
 
-<!--
-**JacquesLucas07/JacquesLucas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+🔗 Me retrouver
+  - discord : ! WaxyPine
+  - Mail : lucasjacques2101@gmail.com
+  - steam : waxypine
+  - instagram : lucas_jcq08
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About my relation with Terry
+- 🔭 I’m currently working on TempleOS
+- 🌱 I’m currently learning Holy C
+- 👯 I’m looking to collaborate on TempleOS
+- 🤔 I’m looking for help with the life of Terry A. Davis
+- 💬 Ask me about Terry A. Davis
+- 😄 Pronouns: god
+- ⚡ Fun fact: I probably have divine intellect
