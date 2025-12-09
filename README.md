@@ -7,7 +7,7 @@ Je penses que ma présence vous est vivement requise..
   - steam : waxypine
   - instagram : lucas_jcq08
 
-![Texte alternatif](img/GoatTerry.jpg)
+<img src="img/GoatTerry.jpg" width="50">
 
 ## About my relation with Terry
 - 🔭 I’m currently working on TempleOS
