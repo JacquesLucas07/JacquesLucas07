@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 #### Languages
 - 🐍 Python
@@ -18,7 +18,7 @@
 - 🐘 PHP
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 #### Frameworks & Tools
 - 🐬 MySQL
@@ -28,7 +28,7 @@
 - 🔶 OracleBD
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 #### Currently Learning
 - 📜 JavaScript
@@ -38,12 +38,12 @@
 - ☸️ Kubernetes
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-### language level
-- <img src="asset/img/english.jpg" width="20"> english B2 lvl
-- <img src="asset/img/french.jpg" width="20"> french (native)
-- <img src="asset/img/Russe.jpg" width="20"> Russian A2 lvl
+#### 🌍 Language Level
+- <img src="asset/img/english.jpg" alt="🇬🇧" width="16"/> English B2 lvl
+- <img src="asset/img/french.jpg" alt="🇫🇷" width="16"/> French (native)
+- <img src="asset/img/Russe.jpg" alt="🇷🇺" width="16"/> Russian A2 lvl
 
 </td>
 </tr>
@@ -91,5 +91,5 @@
 <br>
 
 <div align="center">
-<img src="img/GoatTerry.jpg" width="50">
+<img src="asset/img/GoatTerry.jpg" width="50">
 </div>
