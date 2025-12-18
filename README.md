@@ -67,7 +67,9 @@
 </a>
 </td>
 <td align="center">
+<a href="https://discord.gg/Ph9yruf6ej" target="_blank">
 <img src="asset/preview/Discord.svg" alt="Discord"/>
+</a>
 <br>
 <code>! WaxyPine</code>
 </td>
