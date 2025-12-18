@@ -4,9 +4,45 @@
 
 # About me
 
-### I currently learning :
-Python - JS - Go - git
+### 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+#### Languages
+- 🐍 Python
+- ⚙️ C++ (beginner)
+- 🗃️ SQL
+- 🦀 Rust
+- 🐘 PHP
+
+</td>
+<td valign="top" width="33%">
+
+#### Frameworks & Tools
+- 🐬 MySQL
+- 🌐 API Rest
+- ⚛️ React
+- 🌶️ Flask
+- 🔶 OracleBD
+
+</td>
+<td valign="top" width="33%">
+
+#### Currently Learning
+- 📜 JavaScript
+- 🐹 Go
+- 🔧 Git
+- 🐳 Docker
+- ☸️ Kubernetes
+
+</td>
+</tr>
+</table>
+
 <br>
+
 ### language level
 - <img src="img/english.jpg" width="20"> english B2 lvl
 - <img src="img/french.jpg" width="20"> french (native)
@@ -22,12 +58,4 @@ Python - JS - Go - git
   - instagram : lucas_jcq08
 
 <br>
-
-## About my relation with Terry <img src="img/GoatTerry.jpg" width="20">
-- 🔭 I’m currently working on TempleOS
-- 🌱 I’m currently learning Holy C
-- 👯 I’m looking to collaborate on TempleOS
-- 🤔 I’m looking for help with the life of Terry A. Davis
-- 💬 Ask me about Terry A. Davis
-- 😄 Pronouns: god
-- ⚡ Fun fact: I probably have divine intellect
+<img src="img/GoatTerry.jpg" width="20">
